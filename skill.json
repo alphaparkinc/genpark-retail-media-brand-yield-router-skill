@@ -1,12 +1,12 @@
 {
-  "name": "glance-retail-media-brand-yield-router-skill",
+  "name": "genpark-retail-media-brand-yield-router-skill",
   "version": "1.0.0",
-  "description": "Glance Retail Media Brand Yield Router - Optimizes ad yield, eCPM, and GMV across L Catterton consumer portfolios, luxury fashion, and DTC retail media networks.",
+  "description": "GenPark Retail Media Brand Yield Router - Optimizes ad yield, eCPM, and GMV across L Catterton consumer portfolios, luxury fashion, and DTC retail media networks.",
   "category": "Service",
   "mcp_entry": "mcp_server.py",
   "python_version": ">=3.9",
   "tags": [
-    "glance",
+    "genpark",
     "retail-media",
     "ecpm-optimization",
     "l-catterton",
